@@ -1,3 +1,26 @@
+## 🇬🇧 English Summary
+
+**A suite of Python/Flask tools that remove repetitive administrative work from daily operations.**
+
+**The problem:** recurring manual processes — HR paperwork, document handling, high-volume repetitive tasks — were consuming hours of staff time every week.
+
+**The solution:** a collection of automation tools designed so non-technical staff can run each one without touching code.
+
+- HR process automation for recurring personnel workflows
+- Automated document processing and generation
+- Productivity utilities for high-volume repetitive tasks
+
+**Impact:** processes that required manual attention now run unattended.
+
+**Stack:** Python · Flask · Pandas · python-docx
+
+🔗 **[Live demo](https://enybyy.github.io/business-automation-suite/)**
+
+---
+
+<details>
+<summary>📖 <b>Documentación completa en español</b> (click para expandir)</summary>
+
 # ⚙️ Business Automation Suite — Automatización de Procesos Empresariales (Python / Flask / RPA)
 > **Suite integral de herramientas y microaplicaciones para automatización de Recursos Humanos, procesamiento masivo de documentos Word/Excel y utilidades de productividad.**
 
@@ -74,3 +97,6 @@ Diseño y construyo **automatizaciones de procesos (RPA ligero), scripts de inte
 - **LinkedIn**: [Eliud RM](https://www.linkedin.com/in/eliud-rojas-mendoza-414652212/)
 - **GitHub**: [@Enybyy](https://github.com/Enybyy)
 - *Disponible para proyectos freelance y consultoría tecnológica.*
+
+
+</details>
